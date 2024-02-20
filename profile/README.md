@@ -16,5 +16,5 @@ Issue Tracking : Github Issue & Milestones
 
 Devops
  - Monitoring : Grafana(with Loki, promtail). AWS Cloudwatch(for checking Instance Resources)
- - Deploy : Docker Container
+ - Deploy : Docker, AWS
  - IAC : Terraform(maybe deleted or not)
