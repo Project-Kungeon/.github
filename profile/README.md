@@ -22,5 +22,5 @@ Devops
 # 🙋‍♂️ Maintainer
 | ![프로필 사진1](https://github.com/peace0096.png) | ![프로필 사진2](https://github.com/Jo-jaehyeon.png) | ![프로필 사진3](https://github.com/eric1306.png) |
 |-------------------------|-------------------------|-------------------------|
-| [강병우](https://github.com/peace0096)                    | [조재현](https://github.com/Jo-jaehyeon)                    | [강건우](https://github.com/eric1306)https://github.com/eric1306                    |
+| [강병우](https://github.com/peace0096)                    | [조재현](https://github.com/Jo-jaehyeon)                    | [강건우](https://github.com/eric1306)            |
 | Server(Main), Devops        |  Client(Main), Server(Assist)               |  Client(Main)                       |
